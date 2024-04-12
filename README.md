@@ -7,7 +7,7 @@ to display they warehouse products information on the front-end of their site.
 ### Overview of the Problem
 Our client operates a warehouse and wishes to display information about their products on their website or app. The client's goal is to provide customers with easy access to detailed information about the products available in their warehouse. This information may include product names, descriptions, quantities available, prices, and any other relevant details.
 
-### roposed Solution
+### Proposed Solution
 To address the client's needs, we propose developing an API that allows the client to retrieve product information from their warehouse database and display it on their website or app. The API will follow RESTful principles, providing endpoints for clients to interact with resources such as products.
 
 ### Key Features:
