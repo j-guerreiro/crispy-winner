@@ -1,4 +1,5 @@
 ### Overview
+The name of this API is Sand Spice, because the samples we provied are special spices for cooks.
 This is fictional and it is for studying purposes.
 
 But let's say that our client has products on a warehouse and it wants their website or APP
@@ -32,7 +33,8 @@ Samples:
 * Quantity
 * Availability
 * Description
-* Specialty
+* Specialty (ex: for cooks specialized in japanese food/sea food)
+* Price
 
 ### Architecture
 
